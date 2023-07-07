@@ -68,7 +68,7 @@ Using Virtual Box install Windows 10 image with the network adpater set to "inte
 <img src="https://i.imgur.com/ha1XIfz.png" height="50%" width="50%" alt="Home Lab"/>
 <br />
 <br />
-Once Desktop is finished setting up verify Client Desktop IP configurations are correct according to Roadmap: <br/>
+Once Desktop is finished setting up, verify Client Desktop IP configurations are correct according to Roadmap: <br/>
 <img src="https://i.imgur.com/yBxDAxh.png" height="50%" width="50%" alt="Home Lab"/>
 <br />
 <br /> 

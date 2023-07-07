@@ -3,7 +3,7 @@
 
 
 <h2>Description</h2>
-This project consists of a creating a home lab environment using Oracle Virtual Box. Installing and configuring Windows Server OS as a domain controller, adding users in Active Directory using Powershell scripts and connecting a client PC to our domain.
+This project consists of a creating a home lab environment using Oracle Virtual Box. We will be installing and configuring Windows Server OS as a domain controller, adding users in Active Directory using Powershell scripts and connecting a client PC to our domain.
 <br />
 
 

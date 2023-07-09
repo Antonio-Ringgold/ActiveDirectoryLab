@@ -40,7 +40,7 @@ Install Active Directory:  <br/>
 <img src="https://i.imgur.com/M508rCK.png" height="60%" width="60%" alt="Home Lab"/>
 <br />
 <br />
-Create Domain Name:  <br/>
+Create Domain:  <br/>
 <img src="https://i.imgur.com/t8Kr6hE.png" height="60%" width="60%" alt="Home Lab"/>
 <br />
 <br />
